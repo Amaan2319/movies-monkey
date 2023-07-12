@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+@media screen and (max-width: 760px) {
+  .ind-movie-card{
+    width: 20rem;
+    margin: 2% auto;
+  }
+}
